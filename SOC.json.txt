@@ -1,0 +1,14 @@
+{
+  "name": "A Socia Coin",
+  "symbol": "SOC",
+  "address": "0x8DD0d1aF7265F49ABAA6671bE3EBcA168971bB80",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/DevCaky/soc-token-assets/main/soc_logo.png",
+  "extensions": {
+    "description": "A Socia Coin is a community-driven cryptocurrency for social good.",
+    "website": "https://www.yourwebsite.com", // Se tiver um site para o token
+    "telegram": "https://t.me/yourtelegramgroup", // Se tiver um grupo de Telegram
+    "twitter": "https://twitter.com/yourtwitter" // Se tiver um Twitter
+  }
+}
